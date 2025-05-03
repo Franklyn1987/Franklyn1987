@@ -5,7 +5,7 @@
 - 👀 Interested in coding and passionate about technology.
 - 🌱 Currently learning Python Java and exploring its power.
 - 💞️ Looking for collaboration opportunities in stock market analysis and trade.
-- 📫 Reach me at: baiyuexingchen@gmail.com
+- 📫 Reach me at:   [![Gmail](https://img.shields.io/badge/-baiyuexingchen@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:baiyuexingchen@gmail.com)
 
 ## My Philosophy
 
